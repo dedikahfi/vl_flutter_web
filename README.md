@@ -1,7 +1,5 @@
 # Check VL 2023
 
-Foobar is a Python library for dealing with word pluralization.
-
 ## Live
 
 Check in [vl.yki4tbc.org](https://vl.yki4tbc.org) to view vl examination in a health facility.
