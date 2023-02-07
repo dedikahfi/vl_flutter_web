@@ -1,0 +1,37 @@
+{
+
+   "app":{
+      "title_bar": "VL - Yayasan KNCV Indonesia"
+   },
+   "menu":{
+      "home": "Beranda",
+      "quota": "Cek Ketersediaan VL HIV",
+      "faq": "FAQ" ,
+      "admin": "Update Stok Reagen (Petugas)"
+   },
+   "banner":{
+      "text-1": "Lakukan Pemeriksaan Viral Load Gratis untuk Mengetahui Keberhasilan Pengobatan",
+      "text-2": "Pemeriksaan dapat dilakukan di layanan tempat Anda berobat!",
+      "button-1" :"Cek Ketersediaan VL HIV"
+   },
+   "content":{
+      "title-1":"Cek Ketersedian VL di Tempat Anda Berobat",
+      "text-province":"Provinsi",
+      "text-sub-province":"Pilih Provinsi",
+      "text-district":"Kabupaten/ Kota",
+      "text-sub-district":"Pilih Kab/ Kota",
+      "text-hf":"Fasyankes",
+      "text-sub-hf":"Pilih Fasyankes",
+      "button-1":"Cek Sekarang",
+      "text-footer-1":"Pastikan data yang dimasukkan adalah benar!"
+   },
+   "faq":{
+      "title":"Pertanyaan yang Sering Ditanyakan"
+   },
+   "footer":{
+      "text-1":"YKI4TBC.ORG",
+      "text-2":"All rights reserved.",
+      "text-contact":"Kontak",
+      "text-desc-addr":"Altira Business Park, Jl. Yos Sudarso No.12-15, Jakarta Utara, DKI Jakarta 14350"
+   }
+ }
